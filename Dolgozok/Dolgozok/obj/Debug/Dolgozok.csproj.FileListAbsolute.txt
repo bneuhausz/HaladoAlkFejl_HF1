@@ -1,0 +1,6 @@
+D:\suli\c#\homeworks\hw1\Dolgozok\Dolgozok\bin\Debug\Dolgozok.exe.config
+D:\suli\c#\homeworks\hw1\Dolgozok\Dolgozok\bin\Debug\Dolgozok.exe
+D:\suli\c#\homeworks\hw1\Dolgozok\Dolgozok\bin\Debug\Dolgozok.pdb
+D:\suli\c#\homeworks\hw1\Dolgozok\Dolgozok\obj\Debug\Dolgozok.csprojResolveAssemblyReference.cache
+D:\suli\c#\homeworks\hw1\Dolgozok\Dolgozok\obj\Debug\Dolgozok.exe
+D:\suli\c#\homeworks\hw1\Dolgozok\Dolgozok\obj\Debug\Dolgozok.pdb
